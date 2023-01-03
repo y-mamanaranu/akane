@@ -1,2 +1,2 @@
-# akane
-Akane is Discord bot to help group game
+# Akane
+Akane is Discord bot to help group game.
